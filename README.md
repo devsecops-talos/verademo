@@ -1,6 +1,4 @@
 # VeraDemo - Blab-a-Gag
-> Commit test
-
 
 ## About
 
