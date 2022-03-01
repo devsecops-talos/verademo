@@ -1,5 +1,4 @@
 # VeraDemo - Blab-a-Gag
-> First update
 ## About
 
 Blab-a-Gag is a fairly simple forum type application which allows:
