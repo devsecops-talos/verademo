@@ -1,5 +1,5 @@
 # VeraDemo - Blab-a-Gag
-> Test verademo (test)
+> Test verademo siemens
 ## About
 
 Blab-a-Gag is a fairly simple forum type application which allows:
